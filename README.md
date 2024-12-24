@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![Step2_all_parts](https://github.com/user-attachments/assets/5c9acdcd-05df-4884-8147-d3c822ac1029)
+(https://github.com/user-attachments/assets/3adf513f-4661-4450-8fb8-472f4955a607)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
